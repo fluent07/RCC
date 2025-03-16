@@ -176,3 +176,4 @@ cython_debug/
 *.tex
 *.xlsx
 *.docx
+*.png
